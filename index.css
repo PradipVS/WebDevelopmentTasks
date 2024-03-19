@@ -1,0 +1,129 @@
+*{
+    box-sizing: border-box;
+    margin: 0px;
+    padding: 0px;
+    background-color: antiquewhite;
+}
+
+section{
+    width: 100%;
+    height: 100vh;
+}
+
+.title{
+    background-color: blueviolet;
+    border: 1px solid black;
+    border-radius: 10%;
+    width: 400px;
+    height: 30px;
+    margin-left: 450px;
+}
+
+.msg{
+    width: 500px;
+    height: 20px;
+    margin-left: 400px;
+}
+
+.head{
+    background-color: blueviolet;
+    border: 1px solid black;
+    border-radius: 10%;
+    width: 400px;
+    height: 30px;
+    margin-left: 450px;
+}
+
+.firstDivsHead{
+    display: inline-block;
+    margin-left: 60px;
+    border-radius: 50%;
+    color: blueviolet;
+}
+
+.firstDivsHead img{
+    border: 2px solid black;
+    border-radius: 50%;
+}
+
+.secondDivsHead{
+    display: inline-block;
+    margin-left: 50px;
+    border-radius: 50%;
+    color: blueviolet;
+}
+
+.secondDivsHead img{
+    border: 2px solid black;
+    border-radius: 50%;
+}
+
+.body{
+    background-color: blueviolet;
+    border: 1px solid black;
+    border-radius: 10%;
+    width: 200px;
+    height: 30px;
+    margin-left: 550px;
+}
+
+.firstDivsBody{
+    display: inline-block;
+    margin-left: 60px;
+    border-radius: 50%;
+    color: blueviolet;
+}
+
+.firstDivsBody img{
+    border: 2px solid black;
+    border-radius: 50%;    
+}
+
+.secondDivsBody{
+    display: inline-block;
+    margin-left: 50px;
+    border-radius: 50%;
+    color: blueviolet;
+}
+
+.secondDivsBody img{
+    border: 2px solid black;
+    border-radius: 50%;
+}
+
+.foot{
+    background-color: blueviolet;
+    border: 1px solid black;
+    border-radius: 10%;
+    width: 300px;
+    height: 30px;
+    margin-left: 500px;
+}
+
+.firstDivsFoot{
+    display: inline-block;
+    margin-left: 60px;
+    border-radius: 50%;
+    color: blueviolet;
+}
+
+.firstDivsFoot img{
+    border: 2px solid black;
+    border-radius: 50%;
+}
+
+.secondDivsFoot{
+    display: inline-block;
+    margin-left: 50px;
+    border-radius: 50%;
+    color: blueviolet;
+}
+
+.secondDivsFoot img{
+    border: 2px solid black;
+    border-radius: 50%;
+}
+
+.start{
+    color: black;
+}
